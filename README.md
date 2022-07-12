@@ -1,0 +1,2 @@
+# minicrypt
+Easy encryption algorithm 
